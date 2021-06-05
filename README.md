@@ -9,3 +9,5 @@ During this lab we were really getting our hand down and dirty when dealiing wit
 - We examined adding git repo, exclude node_modules folder from git, make commits
 
 ![IT](https://user-images.githubusercontent.com/81718217/120878046-bba29180-c56e-11eb-8050-75fcc022b54a.jpg)
+
+
